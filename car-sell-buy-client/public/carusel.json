@@ -1,0 +1,14 @@
+[
+  {
+    "id":0,
+    "img":"https://demo.vehica.com/wp-content/uploads/2020/12/slide-1.jpg"
+  },
+  {
+    "id":1,
+    "img": "https://demo.vehica.com/wp-content/uploads/2020/12/slide-2.jpg"
+  },
+  {
+    "id":2,
+    "img":"https://demo.vehica.com/wp-content/uploads/2020/12/slide-3.jpg"
+  }
+]
